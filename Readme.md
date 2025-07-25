@@ -1,7 +1,7 @@
 # 🧠 NepAu
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/nepmods/NepAu/build.yml?branch=main)](https://github.com/nepmods/NepAu/actions)
-[![License](https://img.shields.io/github/license/nepmods/NepAu)](https://github.com/nepmods/NepAu/blob/main/LICENSE)
+
+[![License](https://img.shields.io/github/license/nepmods/NepAu)](https://github.com/nepmods/NepAu/blob/master/LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/nepmods/NepAu)](https://github.com/nepmods/NepAu/commits/main)
 [![Release](https://img.shields.io/github/v/release/nepmods/NepAu)](https://github.com/nepmods/NepAu/releases)
 [![Issues](https://img.shields.io/github/issues/nepmods/NepAu)](https://github.com/nepmods/NepAu/issues)
