@@ -15,7 +15,7 @@
 
 - 📁 **Repo Name**: `NepAu`
 - 🌐 **URL**: [https://github.com/nepmods/NepAu](https://github.com/nepmods/NepAu)
-- 👤 **Author**: [@nepmods / arjun](https://github.com/nepmods)
+- 👤 **Author**: [@nepmods](https://github.com/nepmods)
 
 ---
 
